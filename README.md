@@ -1,7 +1,7 @@
 # ResumeTemplate
 This is a resume template created using Angular and Bootstrap.<br>
 The live version can be seen here:<br>
-https://angularcod3.github.io/resumeTemplate/
+https://javapyscript.github.io/resumeTemplate/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
 
